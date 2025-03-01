@@ -1,7 +1,4 @@
-Here’s a GitHub introduction based on your resume:  
-
 ---
-
 ### 👋 Hi, I'm Aditya Chaudhary!  
 
 🚀 **Compiler & Software Engineer | LLVM Developer**  
@@ -12,9 +9,11 @@ Here’s a GitHub introduction based on your resume:
 
 💡 **Technical Stack:**  
 🔹 **Languages:** C++ (98/11/14/17), C, Python, JavaScript, SQL, Java  
-🔹 **Technologies:** LLVM, Clang, LLVM IR, STL, OOP, Sanitizers  
-🔹 **Tools:** MobaXterm, Taurus, MxDownloader  
-🔹 **Concepts:** Compilers, Operating Systems, Memory Management, API Design, DSA, Networking  
+🔹 **Low-Level::**  LLVM, Clang, LLVM IR, Compiler Design, Sanitizers
+🔹 **Tools:** VSCode, MobaXterm, Taurus, MxDownloader  
+🔹 **Systems:**  Linux, Shell Scripting, IPC, TCP/UDP
+🔹 **Concepts:** Compilers, Operating Systems, Memory Management, API Design, DSA, OOP, Networking  
+
 
 🏆 **Achievements:**  
 ⭐ **5-star (Gold badge) on HackerRank in C++**  
@@ -30,8 +29,6 @@ Here’s a GitHub introduction based on your resume:
 💻 [LeetCode](https://leetcode.com/aditya0714/) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/adityankit) | [HackerRank](https://www.hackerrank.com/profile/Aditya1407)  
 
 ---
-
-You can add this to your GitHub profile `README.md`. Let me know if you want any modifications! 🚀
 
 <!---
 adityankit/adityankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
